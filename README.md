@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Isabella Alves 👋
 
-<!--
-**isabellamontalvao/isabellamontalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Artificial Intelligence & Data Analysis  
+📄 Researcher in applied computing  
 
-Here are some ideas to get you started:
+## 🧠 Areas of Work
+- Artificial Intelligence
+- Data Analysis & Data Processing
+- Vulnerability Scanning & Automation
+- Scientific Research & Technical Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python
+- Data Analysis 
+- Machine Learning 
+- Docker & Docker Compose
+- Databases 
+
+## 🛠️ Projects
+- 📊 **Data analysis pipelines** for decision support
+- 🔍 **Automated vulnerability scanning tools**
+- 🤖 **AI-driven systems and experiments**
+- 📄 **Research-oriented projects and prototypes**
+
+## 📚 Currently
+- Studying Artificial Intelligence
+- Working with data analysis and applied research
+- Developing intelligent systems
+
